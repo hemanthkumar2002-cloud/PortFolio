@@ -1,0 +1,53 @@
+.nav-decor:hover{
+    background-color: rgb(75, 75, 123);
+}
+.bg-danger{
+    background-color: rgb(3, 3, 36)!important;
+}
+.img{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px ;
+}
+.logo-img{
+    border-radius: 70px!important;
+    box-shadow: 10px 10px 10px 10px  rgb(22, 3, 53);
+}
+
+body{
+    background-color: rgb(37, 37, 50);
+    color: rgb(212, 213, 225);
+}
+.fsd{
+    color: rgb(27, 85, 184);
+}
+.logos:hover{
+    cursor: pointer;
+}
+.btn-primary{
+    background-color:  rgb(3, 3, 36)!important;
+
+
+}
+.btn-primary:hover{
+    background-color: blue!important;
+    
+}
+p{
+    padding-top: 20px;
+    font-size: 20px!important;
+}
+.card-col{
+    background-color:  rgb(3, 3, 36);
+}
+.card-data{
+    color: antiquewhite;
+    text-align: center;
+}
+progress{
+    width: 500px!important;
+    height:40px!important;
+}
+label{
+    font-size: 30px!important;
+}
